@@ -1,0 +1,49 @@
+/* TODAS LAS PAGINAS EN EL CSS DEBEN TENER ESTE FORMATO INICIAL*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;	
+	background: #f2f2f2;
+}
+
+/* ============ PARA LA BARRA DE NAVEGACION ========== */
+.navbar {
+	background: #000000;
+	position: sticky;
+	top: 0;
+}
+
+.navbar a {
+	display: inline-block;
+	padding: 0px;
+	width: 100%;
+	text-align: center;
+	color: #ffffff;
+	transition: .2s ease-out all;
+}
+
+.navbar a:hover {
+	background: rgb(47, 233, 0);
+	color: rgb(9, 0, 107);
+	text-decoration: none;
+}
+
+.contenedor {
+	max-width: 1000px;
+	width: 90%;
+	margin: auto;
+	display: flex;
+}
