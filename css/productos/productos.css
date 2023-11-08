@@ -52,10 +52,21 @@ body {
 h1{
 	font-size: 18px;
 	margin: 10px;
+	text-align: center;
 }
 
 
 /*Para la galería de imagenes*/
+.contenedor2{
+    max-width: 800px;
+    margin:auto;
+    display: flex;
+	align-items: center;
+}
+.galeria{
+    text-align: center;
+    margin: 10px; 
+}
 
 .product:hover {
 	background-color: #f5f5f5; /* Color de fondo cuando se pasa el mouse */
@@ -90,4 +101,68 @@ div.galeria:hover{
     font-size: 15px;
 }
 
+div.h1{
+	text-align: center;
+}
 
+
+/*=======================PIE DE PAGINA=============================*/
+.pie-pagina{
+	width: 100%;
+	background-color: #000000;
+
+}
+.pie-pagina .grupo1{
+	width: 100%;
+	max-width: 1200px;
+	margin: 0;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 50px;
+	padding: 45px, 0px;
+}
+.pie-pagina .grupo1 .box figure{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.pie-pagina .grupo1 .box figure img{
+	margin-top: 25px;
+	width: 150px;
+	margin-bottom: 25px;
+}
+.pie-pagina .grupo1 .box h2{
+	color: #fff;
+	margin-bottom: 25px;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.pie-pagina .grupo1 .box p{
+	color: #efefef;
+	margin-bottom: 10px;
+}
+
+.pie-pagina .grupo1 .red-social a{
+	display: inline-block;
+	text-decoration: none;
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	color: #000000;
+	margin-right: 10px;
+	background-color: rgb(0, 95, 106);
+	text-align: center;
+	transition: all 300ms ease;
+}
+.pie-pagina .grupo1 .red-social a:hover{
+	color:rgb(255, 255, 255);
+}
+.pie-pagina .grupo2{
+	background-color: #000129;
+	padding: 15px 10px;
+	text-align: center;
+	color: #fff;
+}
