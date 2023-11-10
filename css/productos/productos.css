@@ -104,7 +104,10 @@ div.galeria:hover{
 div.h1{
 	text-align: center;
 }
-
+div.galeria div.foto{
+	width: 150px;
+	height: 150px;
+}
 
 /*=======================PIE DE PAGINA=============================*/
 .pie-pagina{
