@@ -9,7 +9,7 @@ const conexion_atlas = "mongodb+srv://72467573:72467573@teamtnt0.jk8x40f.mongodb
 const cliente=new mongo(conexion_atlas)
 
 // Indico la Base de Datos
-const dbname="Colaboradores"
+const dbname="Usuarios"
 
 
 
