@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "653af37429b07cbe67a38884"
+  },
+  "nombre_usuario": "Hector1979",
+  "correo": "Hector79OMG@gmail.com",
+  "contra": "197905"
+},
+{
+  "_id": {
+    "$oid": "653af4e629b07cbe67a38885"
+  },
+  "nombre_usuario": "StalinURSS46",
+  "correo": "Juan.Malaga.1998@gmail.com",
+  "contra": "Com4698"
+},
+{
+  "_id": {
+    "$oid": "653af5af29b07cbe67a38886"
+  },
+  "nombre_usuario": "MahmudWTF",
+  "correo": "MahmudInternet88@gmail.com",
+  "contra": "MuhEgypt3100"
+},
+{
+  "_id": {
+    "$oid": "653af62829b07cbe67a38887"
+  },
+  "nombre_usuario": "FernandaUWU",
+  "correo": "FernandaUWUonichan@gmail.com",
+  "contra": "F.A.R.C.2000"
+},
+{
+  "_id": {
+    "$oid": "653af6a129b07cbe67a38888"
+  },
+  "nombre_usuario": "Dr.Insolito1964",
+  "correo": "DomingoADN@gmail.com",
+  "contra": "DADN.1964"
+},
+{
+  "_id": {
+    "$oid": "653af71929b07cbe67a38889"
+  },
+  "nombre_usuario": "Cristo_Salvanos",
+  "correo": "MariaLopezQA@gmail.com",
+  "contra": "TatitoDios1967"
+},
+{
+  "_id": {
+    "$oid": "653af81029b07cbe67a3888a"
+  },
+  "nombre_usuario": "ErnestoGamer4k1080HD3D",
+  "correo": "ErnestoGamer77.com",
+  "contra": "Ernesto231196"
+},
+{
+  "_id": {
+    "$oid": "653afa3229b07cbe67a3888b"
+  },
+  "nombre_usuario": "EzioTheMaster",
+  "correo": "UmbertoChavez2007@gmail.com",
+  "contra": "(5)(27)(9)(15)"
+},
+{
+  "_id": {
+    "$oid": "653afb5229b07cbe67a3888c"
+  },
+  "nombre_usuario": "KratosGamerTv198V",
+  "correo": "HignacioVdel07.com",
+  "contra": "H1GN4C10_Gamer"
+},
+{
+  "_id": {
+    "$oid": "653afd3629b07cbe67a3888d"
+  },
+  "nombre_usuario": "DragonSlayer88",
+  "correo": "pixelmaster@email.com",
+  "contra": "pixelmaster"
+}]

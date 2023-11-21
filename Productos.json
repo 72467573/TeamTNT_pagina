@@ -1,0 +1,84 @@
+[{
+  "_id": 1111,
+  "nombre": "Monitor msi HD4K HDMI CURVO",
+  "marca": "msi",
+  "precio": 986.5,
+  "stock": 20
+},
+{
+  "_id": 1113,
+  "nombre": "Monitor ASUS rog HD4K CURVO RGB",
+  "marca": "ASUS",
+  "precio": 1120.5,
+  "stock": 5
+},
+{
+  "_id": 1112,
+  "nombre": "Monitor HP HD2K PLANO",
+  "marca": "HP",
+  "precio": 484.9,
+  "stock": 10
+},
+{
+  "_id": 2221,
+  "nombre": "Mouse gamer Lenovo legion M300 RGB BLANCO",
+  "marca": "Lenovo",
+  "precio": 129,
+  "stock": 30
+},
+{
+  "_id": 1116,
+  "nombre": "Mouse Gaming inalambrico LOGITECH G230 NEGRO",
+  "marca": "LOGITECH",
+  "precio": 133,
+  "stock": 18
+},
+{
+  "_id": 1115,
+  "nombre": "Mouse TWOLF inalambrico RGB NEGRO",
+  "marca": "TWOLF",
+  "precio": 99,
+  "stock": 28
+},
+{
+  "_id": 1117,
+  "nombre": "Audifonos GAMER JBL Q300",
+  "marca": "JBL",
+  "precio": 99,
+  "stock": 16
+},
+{
+  "_id": 1118,
+  "nombre": "Audifonos IGNEUS stereoiluminados",
+  "marca": "XTech",
+  "precio": 89.9,
+  "stock": 34
+},
+{
+  "_id": 1119,
+  "nombre": "Audifonos MSI GH30 v2",
+  "marca": "MSI",
+  "precio": 109.9,
+  "stock": 8
+},
+{
+  "_id": 1120,
+  "nombre": "Teclado Gamer Red Dragon Shiva spanish RGB",
+  "marca": "Red Dragon",
+  "precio": 144.9,
+  "stock": 4
+},
+{
+  "_id": 1121,
+  "nombre": "Teclado Gamer Micronics Neon Luz Led",
+  "marca": "Micronics",
+  "precio": 59.9,
+  "stock": 23
+},
+{
+  "_id": 1122,
+  "nombre": "Teclado HP Gaming K110",
+  "marca": "HP",
+  "precio": 89.9,
+  "stock": 18
+}]
