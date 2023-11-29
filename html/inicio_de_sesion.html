@@ -8,6 +8,7 @@
 	<!--====================ESTO ES IMPORTANTE PARA EL PIE DE PAGINA======================-->
 	<script src="https://kit.fontawesome.com/c5ae1557dd.js" crossorigin="anonymous"></script>
 	<!--====================================================================================-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-Avb2QiuDEEvB4bZJYdft2mNjVShBftLdPG8FJ0V7irTLQ8Uo0qcPxh4Plq7G5tGm0rU+1SPhVotteLpBERwTkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </head>
 <body>
@@ -23,31 +24,40 @@
 		</nav>
 	</header>
 <br>
-<div class="formulario">
-	<h1><br>
-		Inicio de sesion</h1>
-	<form method="post">
-		<div class="username">
-			<input type="text" required>
-			<label>Nombre de Usuario</label>
-		</div>
-		<div class="username">
-			<input type="password" required>
-			<label>contraseña</label>
-		</div>
-		<div class="recordar"><br>
-			¿Olvidó su contraseña?</div>
-			<br>
-		<input type="submit" value="Iniciar">
-		<div class="registrarse"><br>
-			Quiero<a href="https://sistemas.tecnoderecho.com/wp-content/uploads/mantenimiento-web-e1488342654768.png" target="_blank"> registrarme</a>
-			<br>
-		</div>
-		<br>
-	</form>
+
+<div class="container">
+	<div class="form-content">
+		<h1 id="title">Registro</h1>
+
+		<form>
+			<div class="input-group">
+				<div class="input-field" id="nameInput">
+					<i class="fa-solid fa-user"></i>
+					<input type="text" placeholder="Usuario">
+				</div>
+				<div class="input-field">
+					<i class="fa-solid fa-envelope"></i>
+					<input type="email" placeholder="Correo">
+				</div>
+				<div class="input-field">
+					<i class="fa-solid fa-lock"></i>
+					<input type="password" placeholder="Contraseña">
+				</div>
+				<p>Olvidaste tu contraseña <a href="#">Click aquí</a></p>		
+
+
+			</div>
+			<div class="btn-field">
+				<button id="signUp" type="button">Registrarse</button>
+				<button id="signIn" type="button" class="disable">Login</button>
+			</div>
+		</form>
+
+	</div>
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+
+
+<br><br>
 <!--==================== AQUI VIENE EL PIEDE DE PAGINA============-->
 	<footer class="pie-pagina">
 		<div class="grupo1">
